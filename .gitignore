@@ -1,0 +1,7 @@
+.idea/*
+tmp/
+log/
+
+
+
+#Checking in Gemfile.lock to normalise the environment
